@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522751,
+        "_nanoseconds": 565953731
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "d2d01202c10c2a510901ad7c8b589344"
+    ],
+    "height": 1000,
+    "id": "e82f09374d2f4d528ae6",
+    "label": [
+        "Blue Note Juke Joint Whiskey Uncut Unfiltered"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Blue Note Juke Joint Whiskey Uncut Unfiltered"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "17211",
+        "baxus_database": "true"
+    },
+    "name": "Blue Note Juke Joint Whiskey Uncut Unfiltered.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 3.4422,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522851,
+        "_nanoseconds": 566953731
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 461
+}

@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522709,
+        "_nanoseconds": 145615816
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "535d4bfed6fdf250d6e4bd70814cd9f0"
+    ],
+    "height": 600,
+    "id": "22c5cd87c56f4d3baba2",
+    "label": [
+        "George T. Stagg 2009 Release"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "George T. Stagg 2009 Release"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "477",
+        "baxus_database": "true"
+    },
+    "name": "George T. Stagg 2009 Release.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 0.0954,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522809,
+        "_nanoseconds": 146615816
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 299
+}

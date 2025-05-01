@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522751,
+        "_nanoseconds": 537716388
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "f26f0c7236a2951e6f8bc274ec6d079c"
+    ],
+    "height": 1712,
+    "id": "cf7f26b26d2a428fa623",
+    "label": [
+        "Penelope Bourbon Ros\u00e9 Cask Finish"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Penelope Bourbon Ros\u00e9 Cask Finish"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "17446",
+        "baxus_database": "true"
+    },
+    "name": "Penelope Bourbon Ros\u00e9 Cask Finish.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 3.4892,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522851,
+        "_nanoseconds": 538716388
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 544
+}

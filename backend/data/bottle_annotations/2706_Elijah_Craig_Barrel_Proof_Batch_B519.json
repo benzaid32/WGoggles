@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522750,
+        "_nanoseconds": 613672256
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "3e1026f16a7a8b9cd91d87408252652e"
+    ],
+    "height": 1984,
+    "id": "083fa2f5781c4a5eb1dc",
+    "label": [
+        "Elijah Craig Barrel Proof Batch B519"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Elijah Craig Barrel Proof Batch B519"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "2706",
+        "baxus_database": "true"
+    },
+    "name": "Elijah Craig Barrel Proof Batch B519.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 0.5412,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522850,
+        "_nanoseconds": 614672256
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 1532
+}

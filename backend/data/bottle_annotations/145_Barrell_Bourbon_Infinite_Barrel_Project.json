@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522753,
+        "_nanoseconds": 646358251
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "6e091435d984a1480f751f4d77b8d7a9"
+    ],
+    "height": 686,
+    "id": "51f8a9b4f8c240cea31c",
+    "label": [
+        "Barrell Bourbon Infinite Barrel Project"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Barrell Bourbon Infinite Barrel Project"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "145",
+        "baxus_database": "true"
+    },
+    "name": "Barrell Bourbon Infinite Barrel Project.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 0.029,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522853,
+        "_nanoseconds": 647358251
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 490
+}

@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522750,
+        "_nanoseconds": 274076700
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "aadde9ee8c9e58dcfe41fc4e935d71b2"
+    ],
+    "height": 500,
+    "id": "f7b3f0054bc14b0d99c5",
+    "label": [
+        "Van Winkle 12 Year Special Reserve Lot \"B\""
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Van Winkle 12 Year Special Reserve Lot \"B\""
+        ]
+    },
+    "metadata": {
+        "bottle_id": "3694",
+        "baxus_database": "true"
+    },
+    "name": "Van Winkle 12 Year Special Reserve Lot \"B\".jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 0.7388,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522850,
+        "_nanoseconds": 275076700
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 500
+}

@@ -1,0 +1,3 @@
+"""
+Whisky Goggles modules package.
+"""

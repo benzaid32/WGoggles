@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522750,
+        "_nanoseconds": 528061151
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "21c1d5177670db4032097ea7e0c719e2"
+    ],
+    "height": 2560,
+    "id": "dd8d382654f64637970a",
+    "label": [
+        "Jack Daniel's Coy Hill Single Barrel"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Jack Daniel's Coy Hill Single Barrel"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "17358",
+        "baxus_database": "true"
+    },
+    "name": "Jack Daniel's Coy Hill Single Barrel.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 3.4716,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522850,
+        "_nanoseconds": 529061151
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 2560
+}

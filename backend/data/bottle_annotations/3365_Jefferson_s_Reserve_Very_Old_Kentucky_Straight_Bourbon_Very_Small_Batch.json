@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522751,
+        "_nanoseconds": 776573181
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "07bc68cd52018fb1db480aebbfa4c7ae"
+    ],
+    "height": 686,
+    "id": "92e2e73a32574f6490e4",
+    "label": [
+        "Jefferson\u2019s Reserve Very Old Kentucky Straight Bourbon Very Small Batch"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Jefferson\u2019s Reserve Very Old Kentucky Straight Bourbon Very Small Batch"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "3365",
+        "baxus_database": "true"
+    },
+    "name": "Jefferson\u2019s Reserve Very Old Kentucky Straight Bourbon Very Small Batch.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 0.673,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522851,
+        "_nanoseconds": 777573181
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 490
+}

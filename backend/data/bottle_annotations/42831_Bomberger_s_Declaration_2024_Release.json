@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522754,
+        "_nanoseconds": 135708808
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "faf1dd764806b03b9a444a5dd07841b8"
+    ],
+    "height": 856,
+    "id": "cc6e17379f154936baed",
+    "label": [
+        "Bomberger\u2019s Declaration 2024 Release"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Bomberger\u2019s Declaration 2024 Release"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "42831",
+        "baxus_database": "true"
+    },
+    "name": "Bomberger\u2019s Declaration 2024 Release.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 8.5662,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522854,
+        "_nanoseconds": 136708808
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 275
+}

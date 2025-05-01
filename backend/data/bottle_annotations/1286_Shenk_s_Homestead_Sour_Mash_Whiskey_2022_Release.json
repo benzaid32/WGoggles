@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522753,
+        "_nanoseconds": 388486385
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "5a1f9e5d19bd26ff991fae4fbeeb073a"
+    ],
+    "height": 1840,
+    "id": "2c28d24e813446ff95a0",
+    "label": [
+        "Shenk's Homestead Sour Mash Whiskey 2022 Release"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Shenk's Homestead Sour Mash Whiskey 2022 Release"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "1286",
+        "baxus_database": "true"
+    },
+    "name": "Shenk's Homestead Sour Mash Whiskey 2022 Release.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 0.2572,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522853,
+        "_nanoseconds": 389486385
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 516
+}

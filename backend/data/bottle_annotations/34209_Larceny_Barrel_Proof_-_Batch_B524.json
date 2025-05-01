@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522753,
+        "_nanoseconds": 779963970
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "57c5ab3f6c6dbaf5cdfc0a2099b750a6"
+    ],
+    "height": 1636,
+    "id": "3b417ae3e4a94f5baf92",
+    "label": [
+        "Larceny Barrel Proof - Batch B524"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Larceny Barrel Proof - Batch B524"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "34209",
+        "baxus_database": "true"
+    },
+    "name": "Larceny Barrel Proof - Batch B524.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 6.8418,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522853,
+        "_nanoseconds": 780963970
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 988
+}

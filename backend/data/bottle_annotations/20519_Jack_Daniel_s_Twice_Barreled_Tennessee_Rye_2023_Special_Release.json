@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522753,
+        "_nanoseconds": 800319194
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "7f249600a1b238df4986786b42c81250"
+    ],
+    "height": 1024,
+    "id": "814eb5c4e1ee4ce3b6ea",
+    "label": [
+        "Jack Daniel\u2019s Twice Barreled Tennessee Rye 2023 Special Release"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Jack Daniel\u2019s Twice Barreled Tennessee Rye 2023 Special Release"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "20519",
+        "baxus_database": "true"
+    },
+    "name": "Jack Daniel\u2019s Twice Barreled Tennessee Rye 2023 Special Release.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 4.1038,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522853,
+        "_nanoseconds": 801319194
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 1024
+}

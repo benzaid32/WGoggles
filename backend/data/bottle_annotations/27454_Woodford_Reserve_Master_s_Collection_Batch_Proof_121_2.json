@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522752,
+        "_nanoseconds": 389092683
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "7c2d30bcdc723ee920e33067ba49afe7"
+    ],
+    "height": 891,
+    "id": "7d527d67c0a841c1b077",
+    "label": [
+        "Woodford Reserve Master's Collection Batch Proof 121.2"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Woodford Reserve Master's Collection Batch Proof 121.2"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "27454",
+        "baxus_database": "true"
+    },
+    "name": "Woodford Reserve Master's Collection Batch Proof 121.2.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 5.4908,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522852,
+        "_nanoseconds": 390092683
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 521
+}

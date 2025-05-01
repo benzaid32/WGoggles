@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522708,
+        "_nanoseconds": 611624002
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "e738784b501fd6a0cd86c3dc3c64ca2d"
+    ],
+    "height": 1067,
+    "id": "6cefeacfc1fc41eaad6a",
+    "label": [
+        "E.H. Taylor, Jr. Single Barrel"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "E.H. Taylor, Jr. Single Barrel"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "5120",
+        "baxus_database": "true"
+    },
+    "name": "E.H. Taylor, Jr. Single Barrel.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 1.024,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522808,
+        "_nanoseconds": 612624002
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 800
+}

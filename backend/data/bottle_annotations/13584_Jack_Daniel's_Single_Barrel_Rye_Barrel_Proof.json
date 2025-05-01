@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522709,
+        "_nanoseconds": 288990974
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "b5b8f82ec51ae8dd2d8c29f21a02db86"
+    ],
+    "height": 910,
+    "id": "e65b498aeba34b45a9b6",
+    "label": [
+        "Jack Daniel's Single Barrel Rye Barrel Proof"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Jack Daniel's Single Barrel Rye Barrel Proof"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "13584",
+        "baxus_database": "true"
+    },
+    "name": "Jack Daniel's Single Barrel Rye Barrel Proof.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 2.7168,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522809,
+        "_nanoseconds": 289990974
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 700
+}

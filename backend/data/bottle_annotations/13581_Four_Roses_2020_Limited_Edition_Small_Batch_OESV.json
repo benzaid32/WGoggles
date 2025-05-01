@@ -1,0 +1,56 @@
+{
+    "accumulator": null,
+    "annotation_jobs": [
+        "oDHLx4jwYU973efyg5AF/PbLn1PGYgm8I5vtmqdS0"
+    ],
+    "batches": [],
+    "camera": null,
+    "created": {
+        "_seconds": 1745522754,
+        "_nanoseconds": 224950313
+    },
+    "datasets": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "extension": "jpg",
+    "hashes": [
+        "fb4223537d1c686cd9fd2ab4ceeac55a"
+    ],
+    "height": 479,
+    "id": "082b898eb3364cd98f00",
+    "label": [
+        "Four Roses 2020 Limited Edition Small Batch OESV"
+    ],
+    "labelClasses": [
+        "objects"
+    ],
+    "labels": {
+        "objects": [
+            "Four Roses 2020 Limited Edition Small Batch OESV"
+        ]
+    },
+    "metadata": {
+        "bottle_id": "13581",
+        "baxus_database": "true"
+    },
+    "name": "Four Roses 2020 Limited Edition Small Batch OESV.jpg",
+    "owner": "AXFaTNxeXIVjPFJUWQaY",
+    "projects": [
+        "oDHLx4jwYU973efyg5AF"
+    ],
+    "r": 2.7162,
+    "split": "train",
+    "split.oDHLx4jwYU973efyg5AF": "train",
+    "tags": [
+        "oDHLx4jwYU973efyg5AF:status:approved"
+    ],
+    "updated": {
+        "_seconds": 1745522854,
+        "_nanoseconds": 225950313
+    },
+    "updatedDate": "Apr 24, 2025",
+    "updatedTime": "08:25PM",
+    "updatedTimezone": "+01:00",
+    "uploader": "m4ZYSzHPsMdZzb42DC9TGF0eNxR2",
+    "width": 205
+}
