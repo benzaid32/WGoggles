@@ -1,0 +1,49 @@
+{
+  "name": "whisky-goggles-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.0",
+    "@radix-ui/react-toast": "^1.2.11",
+    "@radix-ui/react-tooltip": "^1.2.4",
+    "axios": "^1.8.4",
+    "chart.js": "^4.4.9",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.9.2",
+    "https": "^1.0.0",
+    "lucide-react": "^0.503.0",
+    "next": "15.3.1",
+    "node-fetch": "^2.7.0",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^19.0.0",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^4.12.0",
+    "react-webcam": "^7.2.0",
+    "tailwind-merge": "^3.2.0",
+    "zustand": "^4.4.6"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20.17.32",
+    "@types/node-fetch": "^2.6.12",
+    "@types/react": "^19",
+    "@types/react-chartjs-2": "^2.0.2",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5"
+  }
+}
