@@ -134,7 +134,7 @@ The frontend communicates with the backend through a RESTful API:
 - Community tasting notes and ratings
 
 ## Contributors
-- [Your Name] - Full Stack Developer
+- Ben Zaid - Full Stack Developer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
